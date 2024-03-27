@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5333e679-0e1e-40eb-8aa3-d24970d15c1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/components/Body.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/components/Browse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/components/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/src/util/Url.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Netflix-gpt/Nectflix_gpt/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stock_Market_dashboard/Stock_Market_Dashboard_web" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javapractice/package1/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javapractice/package3/mobile-number.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_react_practice/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_react_practice/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_react_practice/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactpractice/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market1/Stock_Market_Dashboard_web" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market1/package-lock.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2eFvvqetCGmbL3I5GXy5K3lUNgL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/tribhuvan pal/Desktop/jenkins-testing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5333e679-0e1e-40eb-8aa3-d24970d15c1f" name="Changes" comment="" />
+      <created>1711513373867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711513373867</updated>
+      <workItem from="1711513374782" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
